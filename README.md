@@ -1,2 +1,2 @@
 # ellamaria
-Support an privacy pages for my apps
+Support and privacy pages for my apps
